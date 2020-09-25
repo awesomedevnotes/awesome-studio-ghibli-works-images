@@ -18,7 +18,7 @@
 <img src="https://i.imgur.com/tjPOr4z.png" alt="Studio Ghibli"></img>
 </p><br>
 
-**Awesome Studio Ghibli Works Images** aims to be your starting point to download the Official Studio Ghibli Works Images in Bulk. Fans of Studio Ghibli often like to use these images for wallpaper or some other creative purpose. You can download in Bulk here via Imgur Album instead of downloading 100s of Studio Ghibli Work stills one by one.
+**Awesome Studio Ghibli Works Images** aims to be your starting point to download the Official Studio Ghibli Works Images in Bulk to conveniently use them for creative purpose. You can download in Bulk here via Imgur Album instead of downloading 100s of Studio Ghibli Work stills one by one.
 
 Please refer to the [How to Download](https://github.com/awesomedevnotes/awesome-studio-ghibli-works-images#cherry_blossom-how-to-download) section for more info on downloading.
 
