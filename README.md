@@ -22,6 +22,8 @@
 
 Please refer to the [How to Download](https://github.com/awesomedevnotes/awesome-studio-ghibli-works-images#cherry_blossom-how-to-download) section for more info on downloading.
 
+To know more about the Project by Studio Ghibli, visit http://www.ghibli.jp/info/013344/
+
 NOT AFFILIATED WITH STUDIO GHIBLI
 
 ## Contents
